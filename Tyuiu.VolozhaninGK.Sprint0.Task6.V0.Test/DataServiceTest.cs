@@ -1,6 +1,6 @@
 ﻿using Tyuiu.VolozhaninGK.Sprint0.Task6.V0.Lib;
 
-namespace Tyuiu.VolozhaninGK.Sprint0.Task5.V0.Test
+namespace Tyuiu.VolozhaninGK.Sprint0.Task6.V0.Test
 {
     [TestClass]
     public sealed class DataServiceTest
