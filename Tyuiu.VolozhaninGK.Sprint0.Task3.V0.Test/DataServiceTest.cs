@@ -9,6 +9,7 @@ namespace Tyuiu.VolozhaninGK.Sprint0.Task3.V0.Test
         [TestMethod]
         public void CheckedValid()
         {
+
             Assert.AreEqual(10, DataService.Sum(5,5));
         }
     }
