@@ -1,10 +1,15 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task0.V0/ClassLibrary/ClassLibraryDemo.csproj" />
-    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task0.V0/ConsoleApp/Tyuiu.VolozhaninGK.Sprint0.Task0.V0.csproj" />
-    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task0.V0/TestProject/TestProjectDemo.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task0.V0/ClassLibrary/ClassLibraryDemo.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task0.V0/ConsoleApp/Tyuiu.VolozhaninGK.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task0.V0/TestProject/TestProjectDemo.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task1.V0/Tyuiu.VolozhaninGK.Sprint0.Task1.V0.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task1.V0/Tyuiu.VolozhaninGK.Sprint0.Task1.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task2.V0.Lib/Tyuiu.VolozhaninGK.Sprint0.Task2.V0.Lib.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task2.V0.Test/Tyuiu.VolozhaninGK.Sprint0.Task2.V0.Test.csproj" Id="4e5e7d99-93fb-4f90-ba5e-324f68455c27" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0.Task2.V0/Tyuiu.VolozhaninGK.Sprint0.Task2.V0.csproj" />
   </Folder>
 </Solution>
