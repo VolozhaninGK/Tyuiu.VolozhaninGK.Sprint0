@@ -10,6 +10,7 @@ namespace Tyuiu.VolozhaninGK.Sprint0.Task2.V0.Test
         [TestMethod]
         public void CheckGetMessageValid()
         {
+
             var name = "Григорий";
             var res = DataService.GetMessage(name);
 
