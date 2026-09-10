@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task0.V0/ClassLibrary/ClassLibraryDemo.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task0.V0/ConsoleApp/Tyuiu.VolozhaninGK.Sprint0.Task0.V0.csproj" />
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task0.V0/TestProject/TestProjectDemo.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.VolozhaninGK.Sprint0/Tyuiu.VolozhaninGK.Sprint0.Task1.V0/Tyuiu.VolozhaninGK.Sprint0.Task1.V0.csproj" />
+  </Folder>
+</Solution>
