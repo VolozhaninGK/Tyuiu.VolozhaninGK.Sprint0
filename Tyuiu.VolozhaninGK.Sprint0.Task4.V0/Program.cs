@@ -1,7 +1,7 @@
 ﻿
 using Tyuiu.VolozhaninGK.Sprint0.Task4.V0.Lib;
 
-namespace Tyuiu.VolozhaninGK.Sprint0.Task3.V0
+namespace Tyuiu.VolozhaninGK.Sprint0.Task4.V0
 {
 
     class Program
